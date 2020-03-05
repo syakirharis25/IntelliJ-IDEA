@@ -19,8 +19,8 @@ IntelliJ IDEA official website : https://www.jetbrains.com/idea/ <br />
 
 <a name="shortcuts"></a>
 ## 3. IntelliJ IDEA shortcuts.
-**[ Alt ]** + **[ Shift ]** + **[ Fn ]** + **[ F10 ]** : Run program
-**[ S ]**, **[ O ]**, **[ U ]**, **[ T ]**, **[ Tab ]** : System.out.println();
+**[ Alt ]** + **[ Shift ]** + **[ Fn ]** + **[ F10 ]** : Run program <br />
+**[ S ]**, **[ O ]**, **[ U ]**, **[ T ]**, **[ Tab ]** : System.out.println(); <br />
 
 <a name="github"></a>
 ## 4. GitHub notes.
