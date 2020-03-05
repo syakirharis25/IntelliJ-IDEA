@@ -9,7 +9,7 @@ My works related to IntelliJ IDEA, an integrated development environment (IDE) w
 
 <a name="introduction"></a>
 ## 1. Introduction.
-<img src="java.jpg" height="150">
+<img src="IntelliJ.png" height="150">
 IntelliJ IDEA is an integrated development environment (IDE) written in Java for developing computer software. It is developed by JetBrains (formerly known as IntelliJ), and is available as an Apache 2 Licensed community edition, and in a proprietary commercial edition. Both can be used for commercial development.
 
 <a name="references"></a>
