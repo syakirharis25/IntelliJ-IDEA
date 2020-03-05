@@ -17,7 +17,7 @@ IntelliJ IDEA is an integrated development environment (IDE) written in Java for
 IntelliJ IDEA official website : https://www.jetbrains.com/idea/ <br />
 
 <a name="github"></a>
-## 4. GitHub notes.
+## 3. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/IntelliJ-IDEA.git
@@ -27,7 +27,7 @@ $ git status
 ```
 
 <a name="calculation"></a>
-## 5. GitHub repository calculation.
+## 4. GitHub repository calculation.
 ```
 draft
 ```
