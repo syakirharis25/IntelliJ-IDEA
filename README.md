@@ -36,8 +36,9 @@ IntelliJ IDEA vs Eclipse: Which Is Better for Beginners by Ilana Brudo : https:/
 **_IntelliJ IDEA program management_** <br />
 **[ Alt ]** + **[ Shift ]** + **[ Fn ]** + **[ F10 ]** : Run program <br />
 
-**_IntelliJ IDEA built-in completion_** <br />
+**_IntelliJ IDEA built-in text management_** <br />
 **[ S ]**, **[ O ]**, **[ U ]**, **[ T ]**, **[ Tab ]** : System.out.println(); <br />
+**[ Ctrl ]** + **[ D ]** : duplicate the current line <br />
 
 <a name="github"></a>
 ## 4. GitHub notes.
