@@ -4,9 +4,10 @@ My works related to IntelliJ IDEA, an integrated development environment (IDE) w
 ## Table of Contents
 1. [Introduction.](#introduction)
 2. [Official references websites.](#references)
-3. [IntelliJ IDEA shortcuts.](#shortcuts)
-4. [GitHub notes.](#github)
-5. [GitHub repository calculation.](#calculation)
+3. [IntelliJ IDEA developers.](#developers)
+4. [IntelliJ IDEA shortcuts.](#shortcuts)
+5. [GitHub notes.](#github)
+6. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -32,9 +33,16 @@ Why is the *.iml file stored in project root? by Intellij Support : https://inte
 **_IntelliJ IDEA related articles_** <br />
 Intellij vs. Eclipse: Why IDEA is Better by Andrei Solntsev : https://dzone.com/articles/why-idea-better-eclipse <br />
 IntelliJ IDEA vs Eclipse: Which Is Better for Beginners by Ilana Brudo : https://blog.codota.com/intellij-idea-vs-eclipse/ <br />
+IntelliJ IDEA 13.1 RC Introduces Sublime Text Style Multiple Selections by Andrey Cheptsov : https://blog.jetbrains.com/idea/2014/03/intellij-idea-13-1-rc-introduces-sublime-text-style-multiple-selections/ <br />
+
+<a name="developers"></a>
+## 3. IntelliJ IDEA developers.
+Andrei Solntsev : https://github.com/asolntsev, https://twitter.com/asolntsev <br />
+Andrey Cheptsov : https://github.com/cheptsov, https://twitter.com/andrey_cheptsov <br />
+Ilana Brudo : https://twitter.com/Techslut <br />
 
 <a name="shortcuts"></a>
-## 3. IntelliJ IDEA shortcuts.
+## 4. IntelliJ IDEA shortcuts.
 
 **_IntelliJ IDEA settings management_** <br />
 **[ Ctrl ]** + **[ Alt ]** + **[ S ]** : open IntelliJ settings menu
@@ -42,15 +50,19 @@ IntelliJ IDEA vs Eclipse: Which Is Better for Beginners by Ilana Brudo : https:/
 **_IntelliJ IDEA program management_** <br />
 **[ Alt ]** + **[ Shift ]** + **[ Fn ]** + **[ F10 ]** : Run program <br />
 
-**_IntelliJ IDEA built-in text management_** <br />
+**_IntelliJ IDEA text management_** <br />
 **[ S ]**, **[ O ]**, **[ U ]**, **[ T ]**, **[ Tab ]** : System.out.println(); <br />
 **[ Ctrl ]** + **[ D ]** : duplicate the current line <br />
+**[ Alt ]* + **[ J ]** : select the next occurence <br />
+**[ Shift ]* + **[ Alt ]* + **[ J ]** : unselect the next occurence <br />
+**[ Shift ]* + **[ Ctrl ]** + **[ Alt ]* + **[ J ]** : select all occurences <br />
+**[ Esc ]** : remove all selections
 
 **_IntelliJ IDEA project management_** <br />
 **[ Ctrl ]** + **[ Fn ]** + **[ F9 ]** : build / recompile project
 
 <a name="github"></a>
-## 4. GitHub notes.
+## 5. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/IntelliJ-IDEA.git
@@ -60,7 +72,7 @@ $ git status
 ```
 
 <a name="calculation"></a>
-## 5. GitHub repository calculation.
+## 6. GitHub repository calculation.
 ```
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
