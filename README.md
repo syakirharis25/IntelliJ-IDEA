@@ -17,8 +17,14 @@ IntelliJ IDEA is an integrated development environment (IDE) written in Java for
 ## 2. Official references websites.
 IntelliJ IDEA official website : https://www.jetbrains.com/idea/ <br />
 
+**_IntelliJ IDEA questions and answers website_** <br />
+Stack Overflow questions and answers website : https://stackoverflow.com <br />
+
 **_IntelliJ IDEA documentation by jetbrains.com_** <br />
 Terminal by jetbrains.com : https://www.jetbrains.com/help/idea/terminal-emulator.html <br />
+
+**_IntelliJ IDEA questions and answers by Stack Overflow_** <br />
+IntelliJ IDEA way of editing multiple lines by Stack Overflow : https://stackoverflow.com/questions/1262737/intellij-idea-way-of-editing-multiple-linesm <br />
 
 **_IntelliJ IDEA related articles by Intellij Support_** <br />
 Why is the *.iml file stored in project root? by Intellij Support : https://intellij-support.jetbrains.com/hc/en-us/community/posts/206878055-Why-is-the-iml-file-stored-in-project-root- <br />
