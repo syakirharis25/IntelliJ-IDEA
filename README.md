@@ -40,6 +40,9 @@ IntelliJ IDEA vs Eclipse: Which Is Better for Beginners by Ilana Brudo : https:/
 **[ S ]**, **[ O ]**, **[ U ]**, **[ T ]**, **[ Tab ]** : System.out.println(); <br />
 **[ Ctrl ]** + **[ D ]** : duplicate the current line <br />
 
+**_IntelliJ IDEA project management_** <br />
+*[ Ctrl ]** + **[ F9 ]** : build / recompile project
+
 <a name="github"></a>
 ## 4. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
