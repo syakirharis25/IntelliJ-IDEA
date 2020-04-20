@@ -30,7 +30,10 @@ IntelliJ IDEA vs Eclipse: Which Is Better for Beginners by Ilana Brudo : https:/
 <a name="shortcuts"></a>
 ## 3. IntelliJ IDEA shortcuts.
 
-**_IntelliJ program management_** <br />
+**_IntelliJ IDEA settings management_** <br />
+**[ Ctrl ]** + **[ Alt ]** + **[ S ]** : open IntelliJ settings menu
+
+**_IntelliJ IDEA program management_** <br />
 **[ Alt ]** + **[ Shift ]** + **[ Fn ]** + **[ F10 ]** : Run program <br />
 
 **_IntelliJ IDEA built-in completion_** <br />
