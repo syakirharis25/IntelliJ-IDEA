@@ -17,6 +17,9 @@ IntelliJ IDEA is an integrated development environment (IDE) written in Java for
 ## 2. Official references websites.
 IntelliJ IDEA official website : https://www.jetbrains.com/idea/ <br />
 
+**_INtelliJ IDEA related articles by Intellij Support_** <br />
+Why is the *.iml file stored in project root? by Intellij Support : https://intellij-support.jetbrains.com/hc/en-us/community/posts/206878055-Why-is-the-iml-file-stored-in-project-root- <br />
+
 **_IntelliJ IDEA related articles_** <br />
 Intellij vs. Eclipse: Why IDEA is Better by Andrei Solntsev : https://dzone.com/articles/why-idea-better-eclipse <br />
 IntelliJ IDEA vs Eclipse: Which Is Better for Beginners by Ilana Brudo : https://blog.codota.com/intellij-idea-vs-eclipse/ <br />
