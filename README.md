@@ -53,9 +53,9 @@ Ilana Brudo : https://twitter.com/Techslut <br />
 **_IntelliJ IDEA text management_** <br />
 **[ S ]**, **[ O ]**, **[ U ]**, **[ T ]**, **[ Tab ]** : System.out.println(); <br />
 **[ Ctrl ]** + **[ D ]** : duplicate the current line <br />
-**[ Alt ]* + **[ J ]** : select the next occurence <br />
-**[ Shift ]* + **[ Alt ]* + **[ J ]** : unselect the next occurence <br />
-**[ Shift ]* + **[ Ctrl ]** + **[ Alt ]* + **[ J ]** : select all occurences <br />
+**[ Alt ]** + **[ J ]** : select the next occurence <br />
+**[ Shift ]**  + **[ Alt ]**  + **[ J ]** : unselect the next occurence <br />
+**[ Shift ]**  + **[ Ctrl ]** + **[ Alt ]** + **[ J ]** : select all occurences <br />
 **[ Esc ]** : remove all selections
 
 **_IntelliJ IDEA project management_** <br />
