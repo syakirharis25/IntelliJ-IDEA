@@ -63,7 +63,10 @@ Ilana Brudo : https://twitter.com/Techslut <br />
 **[ Esc ]** : remove all selections
 
 **_IntelliJ IDEA project management_** <br />
-**[ Ctrl ]** + **[ Fn ]** + **[ F9 ]** : build / recompile project
+**[ Ctrl ]** + **[ Fn ]** + **[ F9 ]** : build / recompile project <br />
+
+**_IntelliJ IDEA action management_** <br />
+**[ Ctrl ]** + **[ Shift ]** + **[ A ]** : Find Action <br />
 
 <a name="github"></a>
 ## 5. GitHub notes.
