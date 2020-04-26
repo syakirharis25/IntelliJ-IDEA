@@ -61,9 +61,9 @@ Ilana Brudo : https://twitter.com/Techslut <br />
 **[ Alt ]** + **[ J ]** : select the next occurence <br />
 **[ Shift ]**  + **[ Alt ]**  + **[ J ]** : unselect the next occurence <br />
 **[ Shift ]**  + **[ Ctrl ]** + **[ Alt ]** + **[ J ]** : select all occurences <br />
-**[ Esc ]** : remove all selections
-**[ Ctrl ]** + **[ Shift ]** + **[ ↑ ]** : move line up
-**[ Ctrl ]** + **[ Shift ]** + **[ ↓ ]** : move line down
+**[ Esc ]** : remove all selections <br />
+**[ Ctrl ]** + **[ Shift ]** + **[ ↑ ]** : move line up <br />
+**[ Ctrl ]** + **[ Shift ]** + **[ ↓ ]** : move line down <br />
 
 **_IntelliJ IDEA project management_** <br />
 **[ Ctrl ]** + **[ Fn ]** + **[ F9 ]** : build / recompile project <br />
