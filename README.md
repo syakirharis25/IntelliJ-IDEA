@@ -34,6 +34,7 @@ Why is IntelliJ IDEA so slow? by Quora : https://www.quora.com/Why-is-IntelliJ-I
 
 **_IntelliJ IDEA related articles by Intellij Support_** <br />
 Why is the *.iml file stored in project root? by Intellij Support : https://intellij-support.jetbrains.com/hc/en-us/community/posts/206878055-Why-is-the-iml-file-stored-in-project-root- <br />
+move elements left and right by Intellij Support : https://intellij-support.jetbrains.com/hc/en-us/community/posts/360004465519-move-elements-left-and-right <br />
 
 **_IntelliJ IDEA related articles_** <br />
 Intellij vs. Eclipse: Why IDEA is Better by Andrei Solntsev : https://dzone.com/articles/why-idea-better-eclipse <br />
@@ -64,6 +65,8 @@ Ilana Brudo : https://twitter.com/Techslut <br />
 **[ Esc ]** : remove all selections <br />
 **[ Ctrl ]** + **[ Shift ]** + **[ ↑ ]** : move line up <br />
 **[ Ctrl ]** + **[ Shift ]** + **[ ↓ ]** : move line down <br />
+**[ Tab ]** : indent text to the right <br />
+**[ Shift ]** + **[ Tab ]** : indent text to the left <br />
 
 **_IntelliJ IDEA project management_** <br />
 **[ Ctrl ]** + **[ Fn ]** + **[ F9 ]** : build / recompile project <br />
