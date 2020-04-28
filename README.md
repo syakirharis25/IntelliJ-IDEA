@@ -57,7 +57,6 @@ Ilana Brudo : https://twitter.com/Techslut <br />
 **[ Alt ]** + **[ Shift ]** + **[ Fn ]** + **[ F10 ]** : Run program <br />
 
 **_IntelliJ IDEA text management_** <br />
-**[ S ]**, **[ O ]**, **[ U ]**, **[ T ]**, **[ Tab ]** : System.out.println(); <br />
 **[ Ctrl ]** + **[ D ]** : duplicate the current line <br />
 **[ Alt ]** + **[ J ]** : select the next occurence <br />
 **[ Shift ]**  + **[ Alt ]**  + **[ J ]** : unselect the next occurence <br />
@@ -67,6 +66,13 @@ Ilana Brudo : https://twitter.com/Techslut <br />
 **[ Ctrl ]** + **[ Shift ]** + **[ ↓ ]** : move line down <br />
 **[ Tab ]** : indent text to the right <br />
 **[ Shift ]** + **[ Tab ]** : indent text to the left <br />
+
+**_IntelliJ IDEA auto-completion management_** <br />
+**[ S ]**, **[ O ]**, **[ U ]**, **[ T ]**, **[ Tab ]** : System.out.println(); <br />
+**[ P ]**, **[ S ]**, **[ V ]**, **[ M ]**, **[ Tab ]** :   <br />
+  public static void main(String[] args) {  <br />
+         <br />
+    }  <br />
 
 **_IntelliJ IDEA project management_** <br />
 **[ Ctrl ]** + **[ Fn ]** + **[ F9 ]** : build / recompile project <br />
