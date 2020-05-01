@@ -27,7 +27,8 @@ Terminal by jetbrains.com : https://www.jetbrains.com/help/idea/terminal-emulato
 
 **_IntelliJ IDEA questions and answers by Stack Overflow_** <br />
 IntelliJ IDEA way of editing multiple lines by Stack Overflow : https://stackoverflow.com/questions/1262737/intellij-idea-way-of-editing-multiple-linesm <br />
-IntelliJ IDEA: Move line? : https://stackoverflow.com/questions/1889561/intellij-idea-move-line <br />
+IntelliJ IDEA: Move line? by Stack Overflow : https://stackoverflow.com/questions/1889561/intellij-idea-move-line <br />
+Intellij IDEA generate for-each/for keyboard shortcut by Stack Overflow : https://stackoverflow.com/questions/5526732/intellij-idea-generate-for-each-for-keyboard-shortcut <br />
 
 **_IntelliJ IDEA questions and answers by Quora_** <br />
 Why is IntelliJ IDEA so slow? by Quora : https://www.quora.com/Why-is-IntelliJ-IDEA-so-slow <br />
@@ -73,6 +74,10 @@ Ilana Brudo : https://twitter.com/Techslut <br />
   public static void main(String[] args) {  <br />
          <br />
     }  <br />
+**[ F ]**, **[ O ]**,**[ R ]**,**[ I ]**,**[ Enter ]** : <br />
+        for (int i = 0; i < ; i++) { <br />
+             <br />
+        }  <br />
 
 **_IntelliJ IDEA project management_** <br />
 **[ Ctrl ]** + **[ Fn ]** + **[ F9 ]** : build / recompile project <br />
