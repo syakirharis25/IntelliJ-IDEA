@@ -59,6 +59,8 @@ Ilana Brudo : https://twitter.com/Techslut <br />
 
 **_IntelliJ IDEA text management_** <br />
 **[ Ctrl ]** + **[ D ]** : duplicate the current line <br />
+**[ Ctrl ]** + **[ X ]** : cut the current line <br />
+**[ Ctrl ]** + **[ V ]** : paste after cut the line <br />
 **[ Alt ]** + **[ J ]** : select the next occurence <br />
 **[ Shift ]**  + **[ Alt ]**  + **[ J ]** : unselect the next occurence <br />
 **[ Shift ]**  + **[ Ctrl ]** + **[ Alt ]** + **[ J ]** : select all occurences <br />
