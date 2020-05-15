@@ -73,6 +73,7 @@ Ilana Brudo : https://twitter.com/Techslut <br />
 **_IntelliJ IDEA auto-completion management_** <br />
 **[ S ]**, **[ O ]**, **[ U ]**, **[ T ]**, **[ Tab ]** : System.out.println(); <br />
 **[ S ]**, **[ O ]**, **[ U ]**, **[ F ]**, **[ Tab ]** : System.out.printf(); <br />
+**[ S ]**, **[ E ]**, **[ R ]**, **[ R ]** : System.err.println(); <br />
 **[ P ]**, **[ S ]**, **[ V ]**, **[ M ]**, **[ Tab ]** :   <br />
   public static void main(String[] args) {  <br />
          <br />
