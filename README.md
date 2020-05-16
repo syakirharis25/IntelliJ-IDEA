@@ -85,6 +85,7 @@ Ilana Brudo : https://twitter.com/Techslut <br />
 
 **_IntelliJ IDEA project management_** <br />
 **[ Ctrl ]** + **[ Fn ]** + **[ F9 ]** : build / recompile project <br />
+**[ Ctrl ]** + **[ Alt ]** + **[ Shift ]** + **[ S ]** : open project structure menu <br />
 
 **_IntelliJ IDEA action management_** <br />
 **[ Ctrl ]** + **[ Shift ]** + **[ A ]** : Find Action <br />
